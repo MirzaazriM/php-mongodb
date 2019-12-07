@@ -1,0 +1,14 @@
+{
+    "name": "mirza-oglecevac/mongo-php",
+    "description": "Learning MongoDB with PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "MirzaazriM",
+            "email": "oglecevacmirza@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.5"
+    }
+}
